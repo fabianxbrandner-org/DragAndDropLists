@@ -1,5 +1,9 @@
 # Changelog
 
+[1.0.0] - 02 August 2022
+
+* Upgrade to Flutter 3 and bump version to 1.0
+
 [0.3.2+2] - 21 October 2021
 
 * Replace flutter deprecated elements
