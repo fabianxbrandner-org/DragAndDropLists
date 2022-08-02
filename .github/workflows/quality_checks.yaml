@@ -3,13 +3,7 @@ name: Quality control checks
 on:
   push:
     branches:
-      - master
-  pull_request:
-    branches:
-      - '*'
-    workflow_dispatch:
-      branches:
-        - '*'
+      - main
 
 jobs:
   analyze:
